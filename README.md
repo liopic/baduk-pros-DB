@@ -1,7 +1,7 @@
 baduk-pros-DB
 =============
 
-A database with information about Korean baduk(Go) professionals in sqlite3 and other formats. Information extracted semi-automatically from [the Hankuk Kiwon website](http://baduk.or.kr/info/player1.asp).
+A database with information about Korean baduk([game of Go](http://en.wikipedia.org/wiki/Go_%28game%29)) professionals in sqlite3 and other formats. Information extracted automatically from [the Hankuk Kiwon website](http://baduk.or.kr/info/player1.asp).
 Manual modifications and updates by Julio Martinez.
 
 ##Fields
